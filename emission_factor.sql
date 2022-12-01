@@ -1,5 +1,5 @@
 
-INSERT INTO factor (scope, level_1, level_2, level_3, level_4, unit, ghg, conversion_factor) 
+INSERT INTO factor (scope, level_1, level_2, level_3,level_4,Activity,unit, ghg, conversion_factor) 
 VALUES('Scope 1', 'Fuels', 'Gaseous fuels', 'Butane', '', 'Energy - Gross CV', 'kWh (Gross CV)', 'kg CO2e', 0.2224),
 ('Scope 1', 'Fuels', 'Gaseous fuels', 'Butane', '', 'Energy - Gross CV', 'kWh (Gross CV)', 'kg CH4', 0.00017),
 ('Scope 1', 'Fuels', 'Gaseous fuels', 'Butane', '', 'Energy - Gross CV', 'kWh (Gross CV)', 'kg CO2', 0.2221),
